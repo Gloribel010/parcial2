@@ -1,0 +1,15 @@
+C:\Programacion\parcial2\parcial2\bin\Debug\net6.0\parcial2.exe
+C:\Programacion\parcial2\parcial2\bin\Debug\net6.0\parcial2.deps.json
+C:\Programacion\parcial2\parcial2\bin\Debug\net6.0\parcial2.runtimeconfig.json
+C:\Programacion\parcial2\parcial2\bin\Debug\net6.0\parcial2.dll
+C:\Programacion\parcial2\parcial2\bin\Debug\net6.0\parcial2.pdb
+C:\Programacion\parcial2\parcial2\obj\Debug\net6.0\parcial2.csproj.AssemblyReference.cache
+C:\Programacion\parcial2\parcial2\obj\Debug\net6.0\parcial2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\parcial2\parcial2\obj\Debug\net6.0\parcial2.AssemblyInfoInputs.cache
+C:\Programacion\parcial2\parcial2\obj\Debug\net6.0\parcial2.AssemblyInfo.cs
+C:\Programacion\parcial2\parcial2\obj\Debug\net6.0\parcial2.csproj.CoreCompileInputs.cache
+C:\Programacion\parcial2\parcial2\obj\Debug\net6.0\parcial2.dll
+C:\Programacion\parcial2\parcial2\obj\Debug\net6.0\refint\parcial2.dll
+C:\Programacion\parcial2\parcial2\obj\Debug\net6.0\parcial2.pdb
+C:\Programacion\parcial2\parcial2\obj\Debug\net6.0\parcial2.genruntimeconfig.cache
+C:\Programacion\parcial2\parcial2\obj\Debug\net6.0\ref\parcial2.dll
